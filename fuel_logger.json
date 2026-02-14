@@ -5,10 +5,10 @@
     "developerName": "Anirudh M Pai",
     "subtitle": "Track your fuel consumption and expenses.",
     "localizedDescription": "Track your fuel consumption and expenses.",
-    "iconURL": "",
+    "iconURL": "https://anirudhmpai.github.io/petra_log.png",
     "tintColor": "#7f7f7f",
     "category": "other",
-    "screenshots": [],
+    "screenshots": ["https://anirudhmpai.github.io/petra_log.png"],
     "versions": [
         {
             "downloadURL": "https://github.com/anirudhmpai/anirudhmpai.github.io/releases/download/0.0.1/petraLog.ipa",
