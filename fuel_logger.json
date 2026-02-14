@@ -1,0 +1,28 @@
+{
+    "name": "Petra Log",
+    "bundleIdentifier": "com.anirudhmpai.fuellogger",
+    "marketplaceID": "",
+    "developerName": "Anirudh M Pai",
+    "subtitle": "Track your fuel consumption and expenses.",
+    "localizedDescription": "Track your fuel consumption and expenses.",
+    "iconURL": "",
+    "tintColor": "#7f7f7f",
+    "category": "other",
+    "screenshots": [],
+    "versions": [
+        {
+            "downloadURL": "https://i.diawi.com/nNjTHU",
+            "size": 9200000,
+            "version": "1.0.0",
+            "buildVersion": null,
+            "date": "2026-02-14T12:37:00+05:30",
+            "localizedDescription": null,
+            "minOSVersion": null
+        }
+    ],
+    "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+    },
+    "patreon": {}
+}
